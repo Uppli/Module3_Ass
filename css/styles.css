@@ -1,0 +1,97 @@
+#header-nav {
+	background-color: black;
+	border-radius: 0;
+	border: 0;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+	text-decoration: none;
+}
+.navbar-brand a h1 {
+	margin-top: -5px;
+	font-size: 2em;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #222;
+	line-height: .75;
+}
+#nav-list {
+	margin-top: 10px;
+}
+#nav-list a {
+	color: #fff;
+	text-align: center;
+}
+#nav-list a span {
+	font-size: 1.8em;
+}
+#nav-list a:hover {
+	background: #fff;
+	color: black;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+	border: 1px solid #fff;
+}
+.heading h2 {
+	text-align: center;
+	background-color: #fff;
+	margin-bottom: 20px;
+}
+#tiles {
+	margin-bottom: 15px;
+	position: relative;
+	border: 2px solid black;
+	overflow: hidden;
+	background-color: #d83e3e;
+}
+#tiles p, #tiles_1 p, #tiles_2 p {
+	padding: 10px 10px 10px 10px;
+}
+.row{
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+#tiles h3, #tiles_1 h3, #tiles_2 h3 {
+	text-align: center;
+	font-weight: 800;
+}
+#tiles_1{
+	background-color: #f1c8c8;
+	margin-bottom: 15px;
+	position: relative;
+	border: 2px solid black;
+	overflow: hidden;
+}
+#tiles_2{
+	background-color: #867373;
+	margin-bottom: 15px;
+	position: relative;
+	border: 2px solid black;
+	overflow: hidden;
+}
+/* Extra small devices (phones, less than 768px) */
+/* No media query since this is the default in Bootstrap */
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: @screen-sm-min) {
+	
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: @screen-md-min) {
+	
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: @screen-lg-min) {
+	
+}
+
+
+
+
+
+
+
+
+
+
